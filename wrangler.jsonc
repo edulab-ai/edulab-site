@@ -10,5 +10,9 @@
   },
   "compatibility_flags": [
     "nodejs_compat"
+  ],
+  "routes": [
+    { "pattern": "edulab.ai", "custom_domain": true },
+    { "pattern": "www.edulab.ai", "custom_domain": true }
   ]
 }
